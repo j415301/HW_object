@@ -8,6 +8,9 @@ public class Run {
 		
 		Student s = new Student();
 		s.information();
+		s.setgrade(6);
+		s.getgrade();
+		s.information();
 		
 	}
 

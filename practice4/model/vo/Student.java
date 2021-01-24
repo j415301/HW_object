@@ -18,6 +18,14 @@ public class Student {
 	
 	public Student() {}
 	
+	public void setgrade(int grade) {
+		this.grade = grade;
+	}
+	
+	public int getgrade() {
+		return grade;
+	}
+	
 	public void information() {
 		System.out.println("ÇÐ³â: "+grade);
 		System.out.println("¹Ý: "+classroom);
