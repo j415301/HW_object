@@ -12,6 +12,14 @@ public class Lotto {
 	
 	public Lotto() {}
 	
+	public void setlotto () {
+		this.lotto = lotto;
+	}
+	
+	public int[] getlotto() {
+		return lotto;
+	}
+	
 	public void information() {
 		for(int i=0 ; i<6 ; i++) {
 			System.out.print(lotto[i]+" ");
