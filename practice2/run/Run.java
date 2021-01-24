@@ -8,6 +8,8 @@ public interface Run {
 		
 		Product p = new Product();
 		p.information();
+		p.setpName(10000);
+		p.information();
 		
 	}
 
