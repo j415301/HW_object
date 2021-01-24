@@ -12,6 +12,10 @@ public class Run {
 		c.incrementRadius();
 		c.getAreaOfCircle();
 		c.getSizeOfCircle();
+		c.setradius(5);
+		c.getradius();
+		c.getAreaOfCircle();
+		c.getSizeOfCircle();
 		
 	}
 

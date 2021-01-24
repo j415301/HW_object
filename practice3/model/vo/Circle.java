@@ -5,6 +5,14 @@ public class Circle {
 	private double PI = 3.14;
 	private int radius = 1;
 	
+	public void setradius(int radius) {
+		this.radius = radius;
+	}
+	
+	public int getradius() {
+		return radius;
+	}
+	
 	public void incrementRadius() {
 		radius += 1;
 	}
