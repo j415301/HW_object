@@ -16,7 +16,7 @@ public class Book {
 		this.author = author;
 //		//String result = title + publisher + author;
 //		return;
-		System.out.println("되나?");
+//		System.out.println("되나?");
 	}
 	
 	public Book(String title, String publisher, String author, int price, double discountRate) {
@@ -33,6 +33,8 @@ public class Book {
 //		System.out.println("작가: "+author);
 //		System.out.println("가격: "+price);
 //		System.out.println("할인율: "+discountRate+"%");
+//		System.out.println(title+publisher+author);
+		System.out.println(title+" "+publisher+" "+author+" "+price+" "+discountRate);
 	}
 
 }

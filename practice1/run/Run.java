@@ -7,7 +7,7 @@ public class Run {
 	public static void main(String[] args) {
 		
 		Member m = new Member();
-		m.changeName("ÀåÇı¸°");
+		m.changeName("½ÅÂ¯±¸");
 		m.printName();
 		
 	}

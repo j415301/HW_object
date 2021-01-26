@@ -12,7 +12,8 @@ public class Lotto {
 	
 	public Lotto() {}
 	
-	public void setlotto () {
+	
+	public void setlotto (int[] lotto) {
 		this.lotto = lotto;
 	}
 	

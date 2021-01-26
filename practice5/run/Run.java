@@ -8,7 +8,8 @@ public class Run {
 		
 		Lotto l = new Lotto();
 		l.information();
-		l.setlotto(null);
+		int[] LL = {1,2,3,4,5,6};
+		l.setlotto(LL);
 		l.getlotto();
 		l.information();
 		

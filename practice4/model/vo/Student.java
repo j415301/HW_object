@@ -11,9 +11,9 @@ public class Student {
 	{
 		grade = 2;
 		classroom = 6;
-		name = "ÀåÇı¸°";
-		height = 165.5;
-		gender = '¿©';
+		name = "½ÅÂ¯±¸";
+		height = 100.5;
+		gender = '³²';
 	}
 	
 	public Student() {}

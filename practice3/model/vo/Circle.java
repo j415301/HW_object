@@ -24,5 +24,5 @@ public class Circle {
 	public void getSizeOfCircle() {
 		System.out.println("¿øÀÇ ³ĞÀÌ: "+radius*radius*PI);
 	}
-
+	
 }
